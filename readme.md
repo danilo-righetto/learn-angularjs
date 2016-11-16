@@ -6,9 +6,17 @@
 * [Composer](https://getcomposer.org)
 * [Bower](http://bower.io)
 * [npm](http://gulpjs.com/)
+* [Yeoman](http://yeoman.io/)
+* [FountainJS](https://github.com/FountainJS/generator-fountain-angular1)
 
 ### Instalar pacotes e dependências
 ```sh
+  $ npm install -g bower
+
+  $ npm install -g yo
+
+  $ npm install -g generator-fountain-angular1
+
   $ composer install
 
   $ npm install
@@ -16,6 +24,8 @@
   $ bower install
 
   $ gulp
+
+  $ yo fountain-angular1
 
 ```
 
